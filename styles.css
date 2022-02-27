@@ -1,0 +1,22 @@
+body {
+   display: flex;
+   justify-content: center;
+   flex-flow: column wrap;
+}
+
+.grid {
+   display: flex;
+   flex-wrap: wrap;
+   height: 400px;
+   width: 350px;
+   margin: auto;
+
+}
+h3 {
+   align-self: center;
+}
+
+
+img {
+   padding: 5px;
+}
